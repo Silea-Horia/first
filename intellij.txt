@@ -1,4 +1,4 @@
 new file
 modify
 remote change
-conflict
+conflict remote resolved locally
