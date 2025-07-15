@@ -2,3 +2,4 @@ new file
 modify
 remote change
 conflict remote resolved locally
+new conflict
